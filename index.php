@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> SISTEM PAKAR </title>
+    <title> SISTEM PAKAR PERUBAHAN </title>
     <link rel="icon" type="image/png" href="assets/img/icons/login-w-icon.png" />
     <meta charset="utf-8">
     <meta content="width=device-width, inital-scale=1, maximum-scale=1, user-scalable=no" name="viewport" >
